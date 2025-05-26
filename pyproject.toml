@@ -1,6 +1,6 @@
 [project]
 name = "unit-test-prj"
-version = "0.1.0"
+version = "0.1.1a1"
 description = "Project to run tests"
 authors = [
     { name = "MZ", email = "zecchetto@iiasa.ac.at" },
